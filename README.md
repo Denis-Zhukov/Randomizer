@@ -1,2 +1,2 @@
 # Randomizer
-<h1>Randomizer created by C#</h1>
+<p>Randomizer created by C#</p>
